@@ -1,1 +1,1 @@
-1. Repo-session. My second commit
+1. Repo-session. My second commit. Altered message
